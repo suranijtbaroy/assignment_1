@@ -211,3 +211,49 @@ text-transform: capitalize;
 .idea{
     margin-top:10px;
 }
+
+.Ready{
+
+    text-align: center;
+    margin-top:30px;
+    padding: 80px 40px 80px 40px;
+    background: rgba(247, 246, 242, 1);;
+    
+}
+
+.Ready h2{
+
+    text-transform: capitalize;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48px;
+}
+
+.Ready .Join{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    color:#627382;
+    margin-top:10px;
+}
+
+.Free{
+
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20px;
+    color:#627382;
+    margin-top:10px;
+}
+.access{
+
+    margin-top:10px;
+    margin-bottom:10px;
+}
+.arrow{
+    margin:-5px;
+}
+
+footer{
+    
+}
