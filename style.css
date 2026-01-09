@@ -167,8 +167,47 @@ color:#627382
 .knowledge{
 
     display: flex;
+    gap:15px;
     flex-direction: row;
-    gap: 20px;
+    justify-content: center;
 
 }
+.know{
 
+    margin-left:30px;
+    margin-top:20px;
+    
+}
+.post{
+    
+    margin-top:100px;
+}
+
+.post .solution{
+    
+    margin-top:100px;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 20px;
+}
+.second{
+
+    
+font-size: 48px;
+font-weight: 700;
+line-height: 58px;
+text-align: left;
+text-transform: capitalize;
+}
+
+.Vault{
+
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20px;
+    margin-top:10px;
+}
+
+.idea{
+    margin-top:10px;
+}
