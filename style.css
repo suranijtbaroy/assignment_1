@@ -256,5 +256,27 @@ text-transform: capitalize;
 
 footer{
     display: flex;
-    justify-content: space-evenly;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 120px 120px 30px 120px;
+    background-color: #627382;
+}
+
+.foot img{
+
+    background: rgba(249, 85, 85, 1);
+    color:rgba(255, 255, 255, 1);
+    border:1px solid red;
+    border-radius: 50%;
+}
+.foot p{
+    margin-left:10px;
+    font-size: 20px;
+    font-weight: 500;
+    color: rgba(255, 255, 255, 1);
+}
+
+.copyright{
+    color: rgba(250, 250, 250, 1);
 }
